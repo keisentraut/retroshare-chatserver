@@ -1,3 +1,10 @@
+THIS REPO IS UNMAINTAINED
+=========================
+
+I wrote the original code in January 2013, but this project was soon not maintained by me.
+Please look at the official repository at https://github.com/RetroShare/ChatServer instead.
+
+
 retroshare-chatserver
 =====================
 This is a chat intro server for RetroShare, which (hopefully) deal with
